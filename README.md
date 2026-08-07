@@ -14,6 +14,14 @@
 
 [查看 Skill 核心文件](./paint-beyond-the-frame/SKILL.md) · [在 ChatGPT 中打开「镜外生境」](https://chatgpt.com/skills?skill_id=6a75a66a78fc8191b62db93546bdabc0)
 
+### 效果示例
+
+| 原图 | 使用「镜外生境」处理后 |
+|---|---|
+| ![熊猫栖地原始照片](./paint-beyond-the-frame/examples/panda-original.jpg) | ![熊猫栖地的彩色想象续景](./paint-beyond-the-frame/examples/panda-beyond-the-frame.png) |
+
+左侧完整保留真实摄影中的熊猫、树木、围墙和前景红叶；右侧从原片提取林木绿、岩土灰与珊瑚红，以低饱和水彩继续生长出同一栖地中的竹林、小径和活动空间。新增场景保持相同的气候、尺度与情绪，同时避免复制熊猫这一主要主体。
+
 ### 它创造什么
 
 | 区域 | 视觉职责 |
